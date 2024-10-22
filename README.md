@@ -1,11 +1,51 @@
-## Hello World! 👋
+# Hello World! 👋
 
-I'm a dedicated full-stack developer with expertise in various technologies including Next.js,Laravel, MERN (MongoDB, Express.js, React.js, Node.js) stack, and Vue.js. Additionally, I have experience in mobile app development with Flutter. Currently, I'm in my fifth year of studying Software Engineering.
+![Profile Views](https://komarev.com/ghpvc/?username=sol-21&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/sol-21?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/sol-21?label=Stars&style=social)
+
+I'm a dedicated full-stack developer with expertise in various technologies including Next.js, Laravel, MERN (MongoDB, Express.js, React.js, Node.js) stack, and Vue.js. Additionally, I have experience in mobile app development with Flutter. Currently, I'm in my fifth year of studying Software Engineering.
+
+## 🚀 About Me
 
 - 🔭 I’m currently working on improving my skills in building robust and scalable web applications using Next.js, Laravel, MERN stack, as well as exploring mobile app development with Flutter.
 - 🌱 I’m always learning and exploring new technologies to stay up-to-date with the latest trends in web and mobile development.
 - 💬 Ask me about anything related to JavaScript, TypeScript, Vue.js, React, Node.js, Express.js, MongoDB, Laravel, or Flutter development.
-- 📫 You can reach me via email: solomon17bdr@gmail.com) or connect with me on Linkedin: www.linkedin.com/in/solomon-emrie-672016220.
+- 📫 You can reach me via email: [solomon17bdr@gmail.com](mailto:solomon17bdr@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/solomon-emrie-672016220).
 - 📞 Feel free to contact me at +251 930497271
 
+## 🛠️ Technologies & Tools
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sol-21&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sol-21&layout=compact&theme=radical)
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sol-21&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sol-21&theme=radical)
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-emrie-672016220)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomon17bdr@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+251930497271)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
