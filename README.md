@@ -22,7 +22,7 @@ Full-stack developer with expertise in **Next.js**, **Laravel**, **MERN**, **Vue
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sol-21&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol-21&layout=compact&theme=radical" alt="Top Langs" />
+ 
 </div>
 
 ## 📈 GitHub Streak
