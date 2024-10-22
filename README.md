@@ -4,23 +4,21 @@
 ![GitHub followers](https://img.shields.io/github/followers/sol-21?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sol-21?label=Stars&style=social)
 
-I'm a dedicated full-stack developer with expertise in various technologies including Next.js, Laravel, MERN (MongoDB, Express.js, React.js, Node.js) stack, and Vue.js. Additionally, I have experience in mobile app development with Flutter. Currently, I'm in my fifth year of studying Software Engineering.
-
 ## 🚀 About Me
 
-- 🔭 I’m currently working on improving my skills in building robust and scalable web applications using Next.js, Laravel, MERN stack, as well as exploring mobile app development with Flutter.
-- 🌱 I’m always learning and exploring new technologies to stay up-to-date with the latest trends in web and mobile development.
-- 💬 Ask me about anything related to JavaScript, TypeScript, Vue.js, React, Node.js, Express.js, MongoDB, Laravel, or Flutter development.
-- 📫 You can reach me via email: [solomon17bdr@gmail.com](mailto:solomon17bdr@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/solomon-emrie-672016220).
-- 📞 Feel free to contact me at +251 930497271
+- Full-stack developer with expertise in **Next.js**, **Laravel**, **MERN**, **Vue.js**, and mobile app development using **Flutter**.
+- Currently enhancing my skills in building scalable web applications.
+- Always eager to learn new technologies and trends in development.
 
 ## 🛠️ Technologies & Tools
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -54,11 +52,6 @@ I'm a dedicated full-stack developer with expertise in various technologies incl
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📝 License
 
