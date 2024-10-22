@@ -6,9 +6,7 @@
 
 ## 🚀 About Me
 
-- Full-stack developer with expertise in **Next.js**, **Laravel**, **MERN**, **Vue.js**, and mobile app development using **Flutter**.
-- Currently enhancing my skills in building scalable web applications.
-- Always eager to learn new technologies and trends in development.
+Full-stack developer with expertise in **Next.js**, **Laravel**, **MERN**, **Vue.js**, and mobile app development using **Flutter**. Passionate about building scalable web applications and continuously learning new technologies.
 
 ## 🛠️ Technologies & Tools
 
@@ -33,13 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sol-21&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sol-21&theme=radical" alt="GitHub Trophies" />
-</div>
-
-## 📫 Contact Me
+## 📫 Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/solomon-emrie-672016220">
@@ -48,11 +40,4 @@
   <a href="mailto:solomon17bdr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="tel:+251930497271">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
 </div>
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
