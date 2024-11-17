@@ -22,18 +22,6 @@ I'm a full-stack developer with expertise in Next.js, Laravel, MERN stack, Vue.j
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sol-21&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol-21&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
-## 📈 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sol-21&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🏆 GitHub Trophies
 
