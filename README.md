@@ -4,15 +4,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/sol-21?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sol-21?label=Stars&style=social)
 
-I'm a full-stack developer with expertise in Next.js, Laravel, MERN stack, Vue.js, and Flutter. Currently, I'm in my fifth year of studying Software Engineering.
+I'm a full-stack developer with experience in building scalable web and mobile applications using modern frameworks and clean architectures. Currently in my fifth year of Software Engineering studies.
 
 ## 🚀 About Me
 
-- 🔭 Working on web apps with Next.js, Laravel, MERN stack, and mobile apps with Flutter.
-- 🌱 Always learning new technologies.
-- 💬 Ask me about JavaScript, TypeScript, Vue.js, React, Node.js, Express.js, MongoDB, Laravel, or Flutter.
-- 📫 Reach me at [solomon17bdr@gmail.com](mailto:solomon17bdr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/solomon-emrie-672016220).
-- 📞 Contact: +251 930497271
+- 🔭 Building web applications with Next.js, Laravel, MERN stack, and Vue.js
+- 📱 Developing mobile applications with Flutter
+- 🌱 Continuously learning new technologies and best practices
+- 💬 Interested in JavaScript, TypeScript, React, Node.js, Express, MongoDB, and Laravel
 
 ## 🛠️ Technologies & Tools
 
@@ -22,32 +21,18 @@ I'm a full-stack developer with expertise in Next.js, Laravel, MERN stack, Vue.j
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sol-21&theme=radical" alt="GitHub Trophies" />
 </div>
 
-## 📫 Contact Me
+## 📚 Work Highlights
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/solomon-emrie-672016220">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:solomon17bdr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="tel:+251930497271">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-</div>
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Open-source and personal projects
+- Web and mobile application development
+- System architecture and backend services
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
