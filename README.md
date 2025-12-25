@@ -34,18 +34,9 @@ I'm a full-stack developer focused on building scalable, high-performance web an
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 🏆 GitHub Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sol-21&theme=radical" alt="GitHub Trophies" />
-</div>
-
 ## 📌 Focus Areas
 
-- Scalable web applications
-- Backend APIs & system architecture
-- Workflow automation & integrations
+- Scalable web applications  
+- Backend APIs & system architecture  
+- Workflow automation & integrations  
 - Clean, maintainable, production-ready code
-
-
-This project is licensed under the MIT License.
